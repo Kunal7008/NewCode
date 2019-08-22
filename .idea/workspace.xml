@@ -32,11 +32,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/LaunchBrowser.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Firefox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,6 +102,7 @@
         <option value="$PROJECT_DIR$/src/test/java/AppiumTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestNG.java" />
         <option value="$PROJECT_DIR$/src/test/java/LaunchBrowser.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Firefox.java" />
       </list>
     </option>
   </component>
@@ -100,7 +113,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="11" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
@@ -163,7 +176,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.LaunchBrowser.get">
+  <component name="RunManager" selected="TestNG.Firefox">
+    <configuration name="Firefox" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NewCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Firefox" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LaunchBrowser" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="NewCode" />
       <option name="PACKAGE_NAME" value="" />
@@ -189,6 +213,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Firefox" />
         <item itemvalue="TestNG.LaunchBrowser.get" />
         <item itemvalue="TestNG.LaunchBrowser" />
       </list>
@@ -316,6 +341,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Firefox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
