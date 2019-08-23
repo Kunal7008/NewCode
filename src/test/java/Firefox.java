@@ -8,5 +8,8 @@ public class Firefox {
         System.setProperty("webdriver.gecko.driver","F:\\downloads\\geckodriver.exe");
         WebDriver driver= new FirefoxDriver();
         driver.get("https://flipkart.com");
+        String titile=driver.getTitle();
+        System.out.println(titile);
+        driver.get("https://jio.com");
     }
 }
